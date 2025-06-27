@@ -1984,7 +1984,11 @@ XCRfKGZQnCpISc1JWZSzoL/S7nUYnEaDy2Rw6btsPRcdPb1ug95jMvmsmDIDABAPTLwJaV4qRyHn
 yNL4qdniDCVPruQrFHy5hCMe696NyLhLvrCEbAFTsiWZY90RAACY8P4KluNGDB+rhjAAAAAASUVO
 RK5CYII="/>
    </g>
-   <text x="8739.85" y="19035.37"  class="fil0 fnt0">Instagram</text>
+   <text x="8739.85" y="19035.37"  class="fil0 fnt0">
+	   <a xlink:href="https://instagram.com/centralcopias1981" target="_blank">
+    <tspan fill="#000000">Instagram</tspan>
+  </a>
+   </text>
    <text x="8623.5" y="22695.34"  class="fil0 fnt1">WhatsApp</text>
   </g>
  </g>
