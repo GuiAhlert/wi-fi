@@ -51,7 +51,7 @@
       <rect class="btn" x="7192.71" y="14982.3" width="6614.58" height="1455.21"/>
       <g clip-path="url(#instaClip)">
         <image x="7672.07" y="15015.73" width="1455.2" height="1455.2"
-               xlink:href="https://github.com/GuiAhlert/wi-fi/blob/main/whatsapp.png?raw=true"/>
+               xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/refs/heads/main/whatsapp.png"/>
       </g>
       <text x="9591.7" y="15930" class="txt">WhatsApp</text>
     </a>
