@@ -33,7 +33,7 @@
     <!-- Logo -->
     <g clip-path="url(#logoClip)">
       <image id="logo" x="7115.7" y="6833.54" width="6868.86" height="5756.37"
-             xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/refs/heads/main/LOGO2022.png"/>
+             xlink:href="https://github.com/GuiAhlert/wi-fi/blob/main/LOGO2022.png?raw=true"/>
     </g>
 
     <!-- Instagram -->
@@ -41,7 +41,7 @@
       <rect class="btn" x="7192.71" y="12997.92" width="6614.58" height="1455.21"/>
       <g clip-path="url(#zapClip)">
         <image x="7662.52" y="13025.55" width="1455.23" height="1455.23"
-               xlink:href="https://github.com/GuiAhlert/wi-fi/blob/main/LOGO2022.png?raw=true"/>
+               xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/refs/heads/main/instagram.png"/>
       </g>
       <text x="9591.7" y="13939.01" class="txt">Instagram</text>
     </a>
@@ -51,7 +51,7 @@
       <rect class="btn" x="7192.71" y="14982.3" width="6614.58" height="1455.21"/>
       <g clip-path="url(#instaClip)">
         <image x="7672.07" y="15015.73" width="1455.2" height="1455.2"
-               xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/main/whatsapp.png"/>
+               xlink:href="https://github.com/GuiAhlert/wi-fi/blob/main/whatsapp.png?raw=true"/>
       </g>
       <text x="9591.7" y="15930" class="txt">WhatsApp</text>
     </a>
