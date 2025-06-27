@@ -38,7 +38,7 @@
 
     <!-- Instagram -->
     <a xlink:href="https://instagram.com/centralcopias1981" target="_blank">
-      <rect class="btn" x="7192.71" y="12997.92" width="6614.58" height="1455.21"/>
+      <rect class="btn" x="7192.71" y="12997.92" width="500" height="500"/>
       <g clip-path="url(#zapClip)">
         <image x="7662.52" y="13025.55" width="1455.23" height="1455.23"
                xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/refs/heads/main/instagram.png"/>
