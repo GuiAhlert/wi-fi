@@ -33,7 +33,7 @@
     <!-- Logo -->
     <g clip-path="url(#logoClip)">
       <image id="logo" x="7115.7" y="6833.54" width="6868.86" height="5756.37"
-             xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/main/LOGO2022.png"/>
+             xlink:href="https://raw.githubusercontent.com/GuiAhlert/wi-fi/refs/heads/main/LOGO2022.png"/>
     </g>
 
     <!-- Instagram -->
