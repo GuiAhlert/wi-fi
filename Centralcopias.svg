@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2021 (64 Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 21000 29700"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
-  <font id="FontID0" horiz-adv-x="703" font-variant="normal" fill-rule="nonzero" font-weight="700">
+  <font id="FontID0" horiz-adv-x="703" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
 	<font-face 
 		font-family="Segoe UI">
 		<font-face-src>
@@ -27,14 +27,22 @@ viewBox="0 0 21000 29700"
    <glyph unicode="s" horiz-adv-x="439" d="M32.1677 13.1698l0 125c25.4972,-15.3339 50.83,-26.6683 75.9985,-34.1675 25.1685,-7.49918 49.0015,-11.17 71.499,-11.17 27.3326,0 49.0015,3.67083 64.671,11.17 15.827,7.49918 23.6618,18.8336 23.6618,34.1675 0,9.82769 -3.49962,17.998 -10.6632,24.4973 -7.17045,6.49929 -16.3338,12.1631 -27.6682,16.9981 -11.17,4.83509 -23.4974,9.33459 -36.8316,13.1698 -13.3342,3.99956 -26.1684,8.3347 -38.5026,13.1629 -19.8334,7.49918 -37.3315,15.6695 -52.5011,24.1686 -15.1627,8.66343 -27.8326,18.6692 -38.1671,30.1679 -10.1633,11.3344 -17.998,24.4973 -23.3331,39.4957 -5.32818,15.0052 -8.16349,32.6677 -8.16349,53.1723 0,27.9969 6.16371,52.1655 18.3336,72.3277 12.1631,20.169 28.4969,36.6672 48.8303,49.5014 20.3334,12.8342 43.6664,22.3332 69.8348,28.3325 26.1684,5.99934 53.501,9.00586 81.8335,9.00586 22.1688,0 44.502,-1.67105 67.3351,-5.17067 22.8331,-3.33525 45.3306,-8.3347 67.4995,-14.834l0 -119.165c-19.6691,11.4987 -40.5024,19.9978 -62.8356,25.6684 -22.3332,5.66376 -44.1664,8.49907 -65.664,8.49907 -10.1701,0 -19.6691,-0.835525 -28.5037,-2.67094 -8.99901,-1.6642 -16.9981,-4.32829 -23.833,-7.82791 -6.82802,-3.33525 -12.1631,-7.67039 -15.9982,-13.1698 -3.99956,-5.33503 -5.83498,-11.4987 -5.83498,-18.3336 0,-8.99901 2.83531,-16.8338 8.67028,-23.3331 5.99934,-6.49929 13.4985,-12.1631 22.9975,-16.8338 9.49896,-4.83509 19.9978,-8.99901 31.5034,-12.663 11.4987,-3.8352 22.9975,-7.67039 34.4962,-11.5056 20.4978,-7.1636 39.0026,-14.9984 55.6651,-23.4974 16.505,-8.49907 30.8391,-18.3336 42.6666,-29.8323 11.8343,-11.3344 21.0045,-24.6685 27.3395,-40.0025 6.32807,-15.3339 9.49896,-33.4963 9.49896,-54.6652 0,-29.668 -6.33492,-55.0008 -19.3335,-75.9985 -12.8342,-20.9977 -29.8323,-38.0027 -51.1656,-51.1656 -21.3333,-13.1698 -46.0018,-22.8331 -73.8344,-28.8325 -27.8326,-5.99934 -56.6719,-9.00586 -86.6686,-9.00586 -55.0008,0 -105.831,8.50592 -152.833,25.3397z"/>
    <glyph unicode="t" horiz-adv-x="389" d="M367.165 5.83498c-22.8331,-11.9987 -57.165,-18.0049 -102.996,-18.0049 -108.673,0 -163.167,56.5007 -163.167,169.338l0 229.002 -81.0048 0 0 113.83 81.0048 0 0 107.831 153.832 44.002 0 -151.833 112.33 0 0 -113.83 -112.33 0 0 -202.17c0,-52.0012 20.6621,-77.9983 62.0001,-77.9983 16.3338,0 33.1676,4.66387 50.3301,14.1628l0 -114.33z"/>
   </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Segoe UI";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:white}
+    .fnt1 {font-weight:bold;font-size:1418.61px;font-family:'Segoe UI'}
+    .fnt0 {font-weight:bold;font-size:1460.16px;font-family:'Segoe UI'}
+   ]]>
+  </style>
     <clipPath id="id0">
      <rect x="4209.51" y="6044.53" width="12566.72" height="17612"/>
     </clipPath>
  </defs>
  <g id="Camada_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2279767243200">
-   <g clip-path="url(#id0)">
+  <g id="_2279956467056">
+   <g style="clip-path:url(#id0)">
     <image x="4209.51" y="6044.52" width="12566.73" height="17612.01" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlMAAANBCAIAAAE8TZwNAAAACXBIWXMA
 ABJ0AAASdAHeZh94AAAgAElEQVR4nOxdB0AT1/+/bEbYIMu9raLs4cSFCwfi+Kl11l3rrtrWvVv3
 xm1r6164kCEqigIiQ7TOugWBMBNC5t3/XS4kl8lKQsL/Po303bt37973Pvd9+75fKgzDUL0Gta4L
@@ -1976,8 +1984,8 @@ XCRfKGZQnCpISc1JWZSzoL/S7nUYnEaDy2Rw6btsPRcdPb1ug95jMvmsmDIDABAPTLwJaV4qRyHn
 yNL4qdniDCVPruQrFHy5hCMe696NyLhLvrCEbAFTsiWZY90RAACY8P4KluNGDB+rhjAAAAAASUVO
 RK5CYII="/>
    </g>
-   <text x="8739.85" y="19035.37"  fill="white" font-weight="bold" font-size="1460.16px" font-family="Segoe UI">Instagram</text>
-   <text x="8623.5" y="22695.34"  fill="white" font-weight="bold" font-size="1418.61px" font-family="Segoe UI">WhatsApp</text>
+   <text x="8739.85" y="19035.37"  class="fil0 fnt0">Instagram</text>
+   <text x="8623.5" y="22695.34"  class="fil0 fnt1">WhatsApp</text>
   </g>
  </g>
 </svg>
